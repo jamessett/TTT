@@ -1,0 +1,42 @@
+td{
+    height: 100px;
+    width: 100px;
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    font-family: "Showcard Gothic";
+}
+
+body{
+    margin: auto;
+    text-align: center;
+}
+
+table{
+    margin: auto;
+    text-align: center;
+}
+
+.color1{
+    color: palegoldenrod;
+}
+
+.color2{
+    color: darkgoldenrod;
+}
+
+.topBottom{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+.leftRight{
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+
+h1{
+    font-family: "Comic Sans MS";
+}
+
